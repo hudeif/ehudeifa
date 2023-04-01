@@ -1,3 +1,4 @@
+//banner component
 const Banner = () => {
   return (
     <div className="banner">
